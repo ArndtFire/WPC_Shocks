@@ -54,7 +54,6 @@ $onEmbeddedCode Connect:
         rowDimension: 1
         columnDimension: 2             
 - GAMSWriter:
-    writeAll: True
     domainCheckType: checked
 $offEmbeddedCode
 
@@ -222,7 +221,6 @@ $onEmbeddedCode Connect:
         columnDimension: 0
            
 - GAMSWriter:
-    writeAll: True
     domainCheckType: checked
 $offEmbeddedCode
 
